@@ -1,2 +1,20 @@
-20
-{'close', 'getdents', 'open', 'mmap', 'execve', 'set_robust_list', 'brk', 'rt_sigaction', 'set_tid_address', 'rt_sigprocmask', 'mprotect', 'read', 'write', 'sched_getaffinity', 'fstat', 'getrlimit', 'access', 'exit_group', 'arch_prctl', 'munmap'}
+read
+getrlimit
+sched_getaffinity
+arch_prctl
+access
+brk
+open
+execve
+close
+rt_sigaction
+set_tid_address
+mmap
+mprotect
+munmap
+exit_group
+set_robust_list
+rt_sigprocmask
+getdents
+write
+fstat

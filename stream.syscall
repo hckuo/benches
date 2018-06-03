@@ -1,2 +1,22 @@
-22
-{'close', 'write', 'mmap', 'sched_getaffinity', 'open', 'set_robust_list', 'rt_sigprocmask', 'futex', 'exit_group', 'munmap', 'fstat', 'rt_sigaction', 'clone', 'getdents', 'set_tid_address', 'arch_prctl', 'brk', 'mprotect', 'access', 'getrlimit', 'execve', 'read'}
+rt_sigprocmask
+execve
+mmap
+fstat
+access
+close
+write
+read
+futex
+getrlimit
+clone
+brk
+arch_prctl
+set_tid_address
+sched_getaffinity
+open
+mprotect
+exit_group
+munmap
+set_robust_list
+getdents
+rt_sigaction
