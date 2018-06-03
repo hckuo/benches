@@ -1,0 +1,2 @@
+31
+{'lseek', 'exit', 'munmap', 'setpriority', 'getrlimit', 'rt_sigaction', 'clone', 'brk', 'close', 'getrandom', 'open', 'getpriority', 'execve', 'futex', 'rt_sigprocmask', 'mprotect', 'getdents', 'fcntl', 'set_tid_address', 'mmap', 'write', 'exit_group', 'madvise', 'sched_getaffinity', 'ioctl', 'arch_prctl', 'set_robust_list', 'access', 'fstat', 'stat', 'read'}

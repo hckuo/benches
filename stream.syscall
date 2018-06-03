@@ -1,0 +1,2 @@
+22
+{'close', 'write', 'mmap', 'sched_getaffinity', 'open', 'set_robust_list', 'rt_sigprocmask', 'futex', 'exit_group', 'munmap', 'fstat', 'rt_sigaction', 'clone', 'getdents', 'set_tid_address', 'arch_prctl', 'brk', 'mprotect', 'access', 'getrlimit', 'execve', 'read'}

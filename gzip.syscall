@@ -1,0 +1,2 @@
+20
+{'rt_sigprocmask', 'close', 'munmap', 'read', 'exit_group', 'mprotect', 'utimensat', 'fchown', 'open', 'fstat', 'unlink', 'fchmod', 'arch_prctl', 'access', 'mmap', 'rt_sigaction', 'execve', 'brk', 'write', 'lseek'}

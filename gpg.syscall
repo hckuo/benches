@@ -1,0 +1,2 @@
+33
+{'geteuid', 'mlock', 'access', 'open', 'getrlimit', 'getpid', 'fstat', 'mmap', 'execve', 'brk', 'fcntl', 'arch_prctl', 'setrlimit', 'ioctl', 'socket', 'clock_gettime', 'getrandom', 'set_tid_address', 'set_robust_list', 'stat', 'write', 'getuid', 'read', 'readlink', 'mprotect', 'exit_group', 'ftruncate', 'rt_sigaction', 'rt_sigprocmask', 'getrusage', 'connect', 'close', 'munmap'}

@@ -1,0 +1,2 @@
+13
+{'mprotect', 'open', 'read', 'brk', 'access', 'mmap', 'exit_group', 'arch_prctl', 'close', 'fstat', 'write', 'execve', 'munmap'}

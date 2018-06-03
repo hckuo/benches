@@ -1,0 +1,2 @@
+39
+{'pread64', 'kill', 'getdents', 'read', 'fcntl', 'alarm', 'shmget', 'statfs', 'getppid', 'munmap', 'shmctl', 'open', 'exit_group', 'stat', 'fstat', 'access', 'fsync', 'clone', 'semop', 'mmap', 'rt_sigaction', 'semget', 'close', 'execve', 'rename', 'shmat', 'rmdir', 'rt_sigreturn', 'nanosleep', 'arch_prctl', 'utime', 'semctl', 'write', 'unlink', 'mprotect', 'mkdir', 'pwrite64', 'brk', 'wait4'}

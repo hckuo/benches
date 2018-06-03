@@ -1,0 +1,2 @@
+39
+{'rt_sigaction', 'rt_sigreturn', 'bind', 'munmap', 'fstat', 'tgkill', 'wait4', 'getppid', 'rt_sigprocmask', 'gettid', 'lseek', 'socket', 'getpid', 'select', 'clone', 'brk', 'close', 'open', 'nanosleep', 'write', 'arch_prctl', 'setsockopt', 'mprotect', 'exit_group', 'getcwd', 'fcntl', 'listen', 'accept', 'alarm', 'connect', 'geteuid', 'stat', 'mmap', 'execve', 'access', 'getsockname', 'pipe', 'dup2', 'read'}
